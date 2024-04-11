@@ -85,3 +85,4 @@ payload:
   - PROCESS-NAME,RayLink.exe
   - PROCESS-NAME,lx-music-desktop.exe
   - PROCESS-NAME,WinStore.App.exe
+  - PROCESS-NAME,CpzyrjCom.exe
